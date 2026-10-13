@@ -33,7 +33,7 @@ I'm a B.Tech student at MANIT Bhopal who builds full-stack apps and AI-powered t
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,react,tailwind,nodejs,express,fastapi,mongodb,mysql,git,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,react,tailwind,nodejs,express,mongodb,mysql,git,postman" />
 </p>
 
 ### 🚀 Featured Projects
